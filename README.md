@@ -1,5 +1,5 @@
 # Basic-Gesture-Opencv-python
-This is program for basic gesture using opencv-python. In this case, we using Cosine Rule to find angle for all defects (between fingers). 
+This is program for basic gesture using opencv-python. In this case, we using Cosine Rule to find angle for all defects. Defects is point between fingers 
 ## Dependencies
 * math
 * cv2 (pip install opencv-python)
